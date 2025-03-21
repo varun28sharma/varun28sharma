@@ -5,6 +5,8 @@
 I'm a **Computer Science Engineering (CSE) student**, passionate about **full-stack development, networking, open-source projects, and AI/ML**. I love solving real-world problems through technology and continuously strive to expand my knowledge in various domains.
 
 
+
+
 ## 🛠 Tech Stack
 - **Languages**: Python, Java, C, C++, JavaScript, SQL
 - **Frameworks & Tools**: Django, Spring Boot, React, MongoDB, MySQL
@@ -12,19 +14,26 @@ I'm a **Computer Science Engineering (CSE) student**, passionate about **full-st
 - **DevOps & Cloud**: Azure (AZ-900 Certified), Git & GitHub
 - **Other Interests**: Cybersecurity, Cryptography, Database Management, Progressive Web Apps (PWAs)
 
+
 ## 📌 Projects
 - **Kleats**: An online food pre-ordering web app 🥗
 - **Real-Time Collaborative Code Editor** using Django ✍️
 - **Sportss**: A Django-based sports management platform ⚽
 - **C-based Coin Toss Simulation** 🎲
 
+  
+
 ## 🏆 Certifications
 - **Google Python Completion Certificate** 🏅
 - **Azure AZ-900 Certified** ☁️
 - **SQL Certification from Coursera** 📊
 
+  
+
 ## 🗣️ Languages
 - English, Hindi, Dogri
+
+  
 
 ## 📬 Connect with Me
 - **GitHub**: https://github.com/varun28sharma
