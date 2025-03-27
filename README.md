@@ -39,7 +39,6 @@ I'm a **Computer Science Engineering (CSE) student**, passionate about **full-st
 - **GitHub**: https://github.com/varun28sharma
 - **LinkedIn**: https://www.linkedin.com/in/varun-sharma-2b7964285/
 
-💡 _"Learning never exhausts the mind." – Leonardo da Vinci_
 
 Let's connect and build something amazing together! 🚀
 
